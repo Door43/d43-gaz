@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gaz:home|Door43 (gaz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gaz|d43-gaz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gaz/archive/master.zip|d43-gaz.zip]]
+
+**Recent Changes**
+{{changes>ns = gaz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gaz|Ethnologue data]]
+
