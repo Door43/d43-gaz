@@ -17,3 +17,10 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 [[http://www.ethnologue.com/language/gaz|Ethnologue data]]
 
+
+**Resources**
+
+  * [[gaz:obs|Open Bible Stories (gaz)]]
+
+**Latest OBS Status**
+{{page>en:uwadmin:gaz:obs:status}}
